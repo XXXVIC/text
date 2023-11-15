@@ -1,0 +1,16 @@
+.color{
+    background-color: red;
+}
+
+.www{
+    border: 5px solid red;
+    background-color: red;
+}
+
+div{
+    display: flex;
+}
+
+body{
+    font-family: sans-serif;
+}
